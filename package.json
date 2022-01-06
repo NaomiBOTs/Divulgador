@@ -1,0 +1,23 @@
+{
+    "dependencies": {
+        "@adiwajshing/baileys": "^3.5.3",
+        "async": "^2.4.1",
+        "axios": "^0.21.0",
+        "cfonts": "^2.9.0",
+        "escape-string-regexp": "^1.0.5",
+        "fake-useragent": "^1.0.1",
+        "fluent-ffmpeg": "^2.1.2",
+        "imgbb-uploader": "^1.1.0",
+        "moment-timezone": "^0.5.32",
+        "multistream": "^2.1.0",
+        "node-fetch": "^2.6.1",
+        "request": "^2.81.0",
+        "spinnies": "^0.5.1"
+    },
+    "name": "BotBR",
+    "version": "1.0.0",
+    "description": "Coded By: Guiih-Exe",
+    "main": "index.js",
+    "author": "Guiih-Exe",
+    "license": "MIT"
+}
